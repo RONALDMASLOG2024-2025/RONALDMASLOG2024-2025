@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on my homework HAHAHA
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on with human
+- 🤔 I’m looking for help
 - 💬 Ask me about incredible ideas
-- 📫 How to reach me: Call me
-- 😄 Pronouns: Me Who
-- ⚡ Fun fact: Ngik2x
+- 📫 How to reach me: I dunno
+- 😄 Pronouns: Me/Who he/him
+- ⚡ Fun fact: You are reading this right now!😱😱😱
 
