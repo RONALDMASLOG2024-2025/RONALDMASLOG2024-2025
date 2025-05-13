@@ -39,8 +39,6 @@ Aspiring Full-Stack Developer | Lifelong Learner | Tech Enthusiast
 
 ---
 
-> _ My light Side: "I aim to become a computer scientist who specializes in neuroscience. My passion lies in exploring how the human brain works and how technology can be used to understand, interpret, and enhance it. I want to develop intelligent systems—such as brain-computer interfaces, neuroprosthetics, and AI-driven diagnostic tools—that can support mental health, assist people with neurological disorders, and contribute to groundbreaking research in neurotechnology.
-
-With a strong foundation in computer science, I am committed to expanding my knowledge in neuroscience, machine learning, and health technology. My long-term vision is to be part of innovative projects that bridge the gap between the mind and machines, transforming the way we understand and interact with the brain."
+> _ My light Side: "I aim to become a computer scientist who specializes in neuroscience. My passion lies in exploring how the human brain works and how technology can be used to understand, interpret, and enhance it. I want to develop intelligent systems—such as brain-computer interfaces, neuroprosthetics, and AI-driven diagnostic tools—that can support mental health, assist people with neurological disorders, and contribute to groundbreaking research in neurotechnology. With a strong foundation in computer science, I am committed to expanding my knowledge in neuroscience, machine learning, and health technology. My long-term vision is to be part of innovative projects that bridge the gap between the mind and machines, transforming the way we understand and interact with the brain."
 
 ---
