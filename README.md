@@ -38,7 +38,10 @@ Currently exploring **full-stack development**, **cloud computing**, and **neuro
 | Logo | Name |
 |------|------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> | React.js |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> | Next.js |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"/> | Tailwind CSS |
+| <img src="https://mui.com/static/logo.png" width="30"/> | Material-UI (MUI) |
+| <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="30"/> | ShadCN UI |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> | Bootstrap |
 </details>
 
@@ -50,6 +53,7 @@ Currently exploring **full-stack development**, **cloud computing**, and **neuro
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> | Node.js |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" style="filter: brightness(0) invert(1);"/> | Express.js |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/> | PHP |
+| <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="30"/> | Supabase |
 </details>
 
 <details>
@@ -59,6 +63,7 @@ Currently exploring **full-stack development**, **cloud computing**, and **neuro
 |------|------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> | MongoDB |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> | MySQL |
+| <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="30"/> | Supabase (Postgres) |
 </details>
 
 <details>
@@ -70,7 +75,9 @@ Currently exploring **full-stack development**, **cloud computing**, and **neuro
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> | GitHub |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> | VS Code |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" width="30" style="filter: brightness(0.5);"/> | Postman |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> | Docker |
 </details>
+
 
 ---
 
